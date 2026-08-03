@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Shu Maung
 
-<!--
-**shumaung04/shumaung04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
+![Stats](https://github-readme-stats.vercel.app/api?username=shumaung04&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Streak
+
+![Streak](https://streak-stats.demolab.com?user=shumaung04&theme=tokyonight)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumaung04&layout=compact&theme=tokyonight)
+
+## Activity Graph
+
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shumaung04&theme=tokyo-night)](https://github.com/shumaung04)
+
+## Contribution Snake
+
+![Snake](https://github.com/shumaung04/shumaung04/blob/output/github-contribution-grid-snake.svg)
+
